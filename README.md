@@ -6,10 +6,6 @@ La aplicación obtiene el catálogo de platillos mediante una API REST simulada 
 
 Este proyecto forma parte de mi aprendizaje de JavaScript y está enfocado en la práctica del consumo de APIs, manipulación del DOM y operaciones con arreglos y objetos.
 
-## 🚀 Demo
-
-🔗 [Ver aplicación en GitHub Pages](https://cristhianychr.github.io/calculadora-propinas-json-server/)
-
 ## 📸 Vista previa
 
 ![Vista previa de la Calculadora de Consumos y Propinas](./img/preview.png)
